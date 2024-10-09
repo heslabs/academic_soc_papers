@@ -131,7 +131,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=29
 * 9281	9.10	Robust and Energy-Efficient Hardware Architectures for DIZY Stream Cipher
   * Martin Schmid, Tolga Arul, Elif Bilge Kavun, Francesco Regazzoni, Orhun Kara
 * 9050	9.10	Safeguarding the Silicon: Strategies for Integrated Circuit Layout Protection
-  *Jitendra Bhandari, Jayanth Gopinath, Mohammed Ashraf, Johann Knechtel, Ozgur Sinanoglu, Ramesh Karri
+  * Jitendra Bhandari, Jayanth Gopinath, Mohammed Ashraf, Johann Knechtel, Ozgur Sinanoglu, Ramesh Karri
 
 ---
 ## A2L-D: RF/Communications Circuits & Systems 1 Session
