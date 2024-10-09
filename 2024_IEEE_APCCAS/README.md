@@ -16,7 +16,7 @@ https://www.apccas2024.org/industry.php
 
 ---
 ## A1L-A: Artificial Intelligence Circuits, Systems, & Applications 1 Session 
-Chr: Yi-Chung Wu, Kun-Chih Chen \
+Chair: Yi-Chung Wu, Kun-Chih Chen \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=6
 
 * 9003	1	The Intermittent Fault Diagnosis of Analog Circuits Based on EMD-CrossFormer
