@@ -174,5 +174,24 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=20
 * 9179	5	A Portable Electrical Stimulation System with User Interface for Multiple tVNS Treatment
   * Zhan-Xian Liao, Yu Kai Kang, Shuenn-Yuh Lee, Chou-Ching Lin
 
+---
+## Advances in Automated Design & Optimization for Emerging Storage & Memory Architectures Session
+Chair: Yu-Pei Liang, Shuo-Hao Chen \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=28
 
-  
+* 9029	9.2	An Automated Design Platform for ReRAM-Based DNN Accelerators with Hardware-Software Co-Exploration
+  * Yung-Cheng Lai, Chin-Fu Nien
+* 9065	9.2	Interactive Analog IC Layout Tool with Real-Time Parasitic-Aware Automatic Routing Assistance
+  * Yu-Tzu Chen, Chin-Fu Nien, Chin Hsia, Chung-Yi Li
+* 9092	9.2	Optimizing N-Degree Union Problems in Graph Data Processing for Enhancing the Efficiency of Dynamic Graphs
+  * Yi-Hua Chen, Pin-Jung Chen, Yu-Pei Liang, Yuan-Hao Chang, Wei-Kuan Shih
+* 9102	9.2	Implementing Content-Defined Chunking for Deduplication in Host-Managed SSDs
+  * Che-Min Chen, Yi-Chao Shih, Xin Liu, Wei-Kuan Shih, Tseng-Yi Chen
+* 9124	9.2	Enabling a Deleted-Key-Value-Aware Garbage Collection Strategy for LSM-Tree on OCSSD
+  * Zih-Cing Pan, Yi-Chao Shih, Xin Liu, Yu-Pei Liang, Yuan-Hao Chang, Wei-Kuan Shih
+* 9088	9.7	A Resource-Efficient Weight Quantization and Mapping Method for Crossbar Arrays in ReRAM-Based Computing-in-Memory Systems
+  * Mingyuan Ma, Wei Jiang, Juntao Liu, Li Du, Zhongyuan Ma, Yuan Du
+* 9261	9.7	Design Exploration of In-Situ Error Correction for Multi-Bit Computation-in-Memory Circuits
+  * Ting-An Lin, Po-Tsang Huang
+* 9275	9.7	TPE: Trajectory Path Encoding for Anonymous Routing Algorithm in NoC-Based Systems
+  * Kun-Chih Chen, Ting-En Kao, Li-Heng Ke
