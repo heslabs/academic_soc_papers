@@ -152,9 +152,27 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=25
   * Pei-Hsuan Wang, Yi-Cheng Liu, Yu-Yuan Huang, Wei-Show Hsu, Yu-Li Hsueh, Yuan-Hung Chung, Tsung-Hsien Lin
 
 
+---
+## B2L-C: Biomedical Circuits & Systems Session
+Chair: Tsung-Heng Tsai, Tzung-Je Lee \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=20
 
-
-
+* 9015	5	A 0.9 V Adaptive Sampling Rate Differential Level Crossing-SAR ADC for Biomedical Signal Acquisition System
+  * Jui-Ting Lin, Yihsin Liao, Meysam Akbari, Kea-Tiong Tang
+* 9053	5	A Hybrid Voltage-Time Dual-Slope Capacitance-to-Digital Converter with Noise Shaping for Extracellular Vesicle Sensing Systems
+  * Bo-Xun Hong, Tsung-Heng Tsai
+* 9079	5	Charge-Pump-Circuit Implementation for Increasing Sink Current in Low-Volage CMOS Retinal-Prosthesis Chips
+  * Wisaroot Sriitsaranusorn, Yuki Nakanishi, Takaya Hattori, Kuang-Chih Tso, Kenzo Shodo, Hironari Takehara, Yoshinori S...
+* 9080	5	A High-Voltage Tolerant and Current-Accurate Neural Stimulator Based on a Low-Voltage CMOS Process
+  * Zeyu Lu, Weijian Chen, Xu Liu
+* 9127	5	A 32-Bit Two-Step Incremental-ADC with 125.6 dB Dynamic-Range for Non-Invasive BCI Applications
+  * Zhenghang Gao, Shiwei Wang, Mingyi Chen
+* 9157	5	An Energy-Efficient and High-Accuracy Spiking Neural Network Utilizing Asynchronous CORDIC for On-FPGA STDP Learning
+  * Shirui Sheng, Kwen-Siong Chong, Jun-Sheng Ng, Zhiping Lin, Joseph Sylvester Chang, Bah-Hwee Gwee
+* 9171	5	A Readily Driven Zoom ADC with Least-Significant Bit First Quantization for Brain-Computer Interface
+  * Yifan Chen, Guangzu He, Lei Qian, Yongfu Li, Yan Liu
+* 9179	5	A Portable Electrical Stimulation System with User Interface for Multiple tVNS Treatment
+  * Zhan-Xian Liao, Yu Kai Kang, Shuenn-Yuh Lee, Chou-Ching Lin
 
 
   
