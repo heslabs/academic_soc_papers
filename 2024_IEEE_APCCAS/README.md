@@ -93,7 +93,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=9
 * 9216	1	Quantized Optical Neural Network Based on Microring Resonators with On-Chip Modulation
   * Yun Hu, Huifan Zhang, Pingqiang Zhou
 * 9091	2	An Efficient On-Chip Storage Solution for CNN Accelerator Based on Self-Tuning and Co-Scheduling
-  *Chengrui Li, Ning Zhao, Xiaopeng Zhang, Wei Gao, Chenjia Xie, Yuan Du, Li Du
+  * Chengrui Li, Ning Zhao, Xiaopeng Zhang, Wei Gao, Chenjia Xie, Yuan Du, Li Du
 
 ---
 ## 	A1L-D: Emerging Hardware/Software Optimization Techniques for AI & CIM Session
@@ -175,7 +175,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=20
   * Zhan-Xian Liao, Yu Kai Kang, Shuenn-Yuh Lee, Chou-Ching Lin
 
 ---
-## Advances in Automated Design & Optimization for Emerging Storage & Memory Architectures Session
+## A1L-E: Advances in Automated Design & Optimization for Emerging Storage & Memory Architectures Session
 Chair: Yu-Pei Liang, Shuo-Hao Chen \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=28
 
