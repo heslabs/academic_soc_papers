@@ -4,6 +4,17 @@ https://www.apccas2024.org/index.php
 <img src="https://github.com/user-attachments/assets/c17d663a-f4ec-419c-8322-0f741cb0b208" width="800">
 
 ---
+## Industry Session
+IC Design Talent Cultivation Ecosystem - Taiwan's Successful Story
+https://www.apccas2024.org/industry.php
+
+* TSRI Speaker: Chi-Shi Chen
+* Arm Speaker: Richard Buttrey
+* Cadence Speaker: Kevin Tsai
+* SiCADA / Synopsys Speaker: Yung Wuu
+* TSMC Speaker: Clark Chen
+
+---
 ## A1L-A: Artificial Intelligence Circuits, Systems, & Applications 1 Session 
 Chr: Yi-Chung Wu, Kun-Chih Chen \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=6
