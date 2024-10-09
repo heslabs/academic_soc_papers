@@ -5,7 +5,7 @@ https://www.apccas2024.org/index.php
 
 ---
 ## Industry Session
-IC Design Talent Cultivation Ecosystem - Taiwan's Successful Story
+IC Design Talent Cultivation Ecosystem - Taiwan's Successful Story \
 https://www.apccas2024.org/industry.php
 
 * TSRI Speaker: Chi-Shi Chen
