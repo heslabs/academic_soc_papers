@@ -132,3 +132,29 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=29
   * Martin Schmid, Tolga Arul, Elif Bilge Kavun, Francesco Regazzoni, Orhun Kara
 * 9050	9.10	Safeguarding the Silicon: Strategies for Integrated Circuit Layout Protection
   *Jitendra Bhandari, Jayanth Gopinath, Mohammed Ashraf, Johann Knechtel, Ozgur Sinanoglu, Ramesh Karri
+
+---
+## A2L-D: RF/Communications Circuits & Systems 1 Session
+Chair: Yi-Fan Tsao, Hsiao-Chin Chen \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=25
+
+* 9017	7	A High-Power Single-Pole-Double-Throw Switch with High Isolation for Millimeter-Wave Satellite Applications
+  * Hao-Yu Luo, Yi-Fan Tsao
+* 9057	7	VCO with 8-Shaped Transformer Coupled Transmission-Line
+  * Sheng-Lyang Jang, Shih-Hsuan Chen, Jiun-Yu Sung, Wen-Cheng Lai, Mao-Hsiu Hsu, Miin-Horng Juang
+* 9110	7	Low Power Low Noise and High Sensitivity FSK/OOK Wake-Up Receiver
+  * Ming-Hsuan Kuo, Yi-Hsuan Hsia, Kuang-Wei Cheng
+* 9164	7	A Highly-Efficient Power Amplifier for V-Band Inter-Satellite Link Applications
+  * Hao-Yu Luo, Yi-Fan Tsao
+* 9167	7	A 18.8 GHz Noise Circulating VCO with Implicit Noise Filter for Quantum Computing
+  * Yan-Ming Chang, Hsiao-Chin Chen, Chun-Hsuan Fan
+* 9198	7	An 80-GHz Phase-Locked Loop for Millimeter-Wave Application in 40-nm CMOS
+  * Pei-Hsuan Wang, Yi-Cheng Liu, Yu-Yuan Huang, Wei-Show Hsu, Yu-Li Hsueh, Yuan-Hung Chung, Tsung-Hsien Lin
+
+
+
+
+
+
+
+  
