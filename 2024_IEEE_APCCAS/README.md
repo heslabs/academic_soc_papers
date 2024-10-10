@@ -30,7 +30,13 @@ The semiconductor industry is a cornerstone of modern technology and economic gr
 
 The Taiwan Semiconductor Research Institute (TSRI) has established an ecosystem for nurturing IC design talent through partnerships with academia, industry, government, and research institutes. The ecosystem’s stakeholders include universities, EDA/Silicon IP vendors, foundries, cloud/IT infrastructure vendors, and TSRI itself. TSRI’s unique business model with these key stakeholders has been highly effective for decades, helping Taiwan’s universities cultivate a wealth of IC design talent to support industry growth. In this session, a representative from TSRI will introduce the ecosystem TSRI has established and its successful business model. Additionally, representatives from TSRI’s partners-Arm, Cadence, Synopsys, and TSMC-will present their respective engagements with TSRI in IC design skills training and advanced research. They will also highlight their contributions to global IC design talent cultivation.
 
+---
+## Tutorials
 
+<img src="https://github.com/user-attachments/assets/31cf88ae-d6e8-47af-9725-5b377f8a753a" width="800">
+<img src="https://github.com/user-attachments/assets/ddef098b-39b6-4b3e-b129-cefb8644cf9e" width="800">
+<img src="https://github.com/user-attachments/assets/19380d15-a2f4-4cb9-bb15-0f581042b994" width="800">
+<img src="https://github.com/user-attachments/assets/19779fce-dbc7-4b9c-8db5-81f8e6d685cb" width="800">
 
 ---
 ## A1L-A: Artificial Intelligence Circuits, Systems, & Applications 1 Session 
