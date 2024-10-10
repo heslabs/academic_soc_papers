@@ -195,3 +195,179 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=28
   * Ting-An Lin, Po-Tsang Huang
 * 9275	9.7	TPE: Trajectory Path Encoding for Anonymous Routing Algorithm in NoC-Based Systems
   * Kun-Chih Chen, Ting-En Kao, Li-Heng Ke
+
+---
+## B1L-B: Power & Energy Circuits & Systems 1 Session
+Chair: Saito Toshimichi, Shin-Hung Chang \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=18
+
+* 9005	4	Optimizing GPU Data Center Power
+  * Tawfik Rahal-Arabi, Paul Van der Arend, Ashish Jain, Mehdi Saidi, Rashad Oreifej, Sriram Sundaram, Srilatha Manne, In...
+* 9021	4	Biobjective Optimization Problems in a Simplified Model of Boost Converter with Photovoltaic Input
+  * Ryunosuke Numata, Toshimichi Saito
+* 9060	4	Experimental Evaluation of an Integrated Traction Inverter Used on an Electric Vehicle Platform
+  * Chih-Chiang Wu, Pan-Hsiang Hsieh, Shin-Hung Chang
+* 9206	4	Model-Based Design Methodology for Non-Inverting Buck-Boost Converter with Enhanced Duty Overlap Control and DVS
+  * Shang-Chih Yin, Po-Ju Chen, Shang-Chien Yang, Chien-Hung Tsai
+* 9219	4	A Comparative Analysis of SiC MOSFET Performance in a Traction Inverter
+  * Chih-Chiang Wu, Uma Sankar Rout, Yu-Long Wang, Yi-Ling Lin, Jwu-Sheng Hu
+* 9196	3	Multiple-Loop Analysis and Design for Fast-Transient Capacitor-Less LDO with Dual-Path Compensation and Zero-Pole Placement in 65-nm CMOS
+  * Peijuan Ju, Qisong Wu, Dixian Zhao
+
+---
+## A1L-B: Digital Integrated Circuits & Systems 1 Session
+Chair: Yuan-Hao Huang, Tsung-Te Liu \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=10
+
+*9002	2	A Low-Complexity Reconfigurable FFT Processor for Four Data Overlapping Modes
+  * Lan-Da Van, Yi-Ho Wang, Shen-Jui Huang, Sau-Gee Chen
+* 9047	2	LD-MDCT Quantization Algorithm Optimization and FPGA Realization Using DUTSQ and SFDP Techniques
+  * Fanyang Li, Zhanpeng Yuan, Faxiang Wang
+* 9081	2	Proposal and Validation of Annealing-Processor-Calculation Method Using Error-Diffusion Rounded Interaction Matrix
+  * Dong Cui, Takayuki Kawahara
+* 9084	2	Efficient Implementation of Parallel Annealing Method with Heisenberg Model
+  * Kazuma Kanai, Takayuki Kawahara
+* 9098	2	Global Routing Optimization Analysis Based on Deep Reinforcement Learning
+  * Ying-Tzu Chen, Wei-Kai Cheng
+* 9105	2	Enumeration of Genaralized Parallel Counters for Multi-Input Adder Synthesis for FPGAs
+  * Mugi Noda, Nagisa Ishiura
+* 9151	2	In-Situ Critical-Path Replica for Variation-Aware Low-Power Designs with Timing Margin Detection
+  * Jinn-Shyan Wang, Yong-Chin Miu, Chia-Hua Wu
+* 9212	2	An On-Chip High-Resolution Delay Measurement Scheme for TSVs in 3DIC
+  * Dong-Yi Chen, Cheng-Hong Lee, Kuen-Jong Lee, Nan-Hsin Tseng, Hsin-Wei Hung, Hao-Yu Yang
+
+---
+## A2L-B: Digital Integrated Circuits & Systems 2 Session
+Chair: Herming Chiueh, Po-Tsang Huang \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=11
+
+* 9014	2	Radiation-Hardened Configuration Registers with SPI Interface Protocol in a 65nm CMOS Technology
+  * Tai-Lai Liu, Chansyun Yang, Yu-Ju Chuang, Herming Chiueh
+* 9022	2	A Radiation-Hardened Serial Peripheral Interface with an ECC-Protected SRAM in a 65nm CMOS Technology
+  * Ming-Hao Chang, Chansyun Yang, Yu-Ju Chuang, Herming Chiueh
+* 9202	2	Accurate Estimation of Buffered Interconnect Delay Based on Virtual Buffering and Multi-Level Cluster Tree Techniques
+  * Chen-Ho Chen, Chien-Nan Jimmy Liu, Wei-Ting Tu, Tung-Chieh Chen, Iris Hui-Ru Jiang
+* 9134	8	A Lightweight Post-Processing Method for Voltage-Controlled MTJ Based True Random Number Generator
+  * Zirui Wang, Renhe Chen, Yu Gu, Albert Lee, Di Wu, Xufeng Kou
+* 9160	2	Flattening Power Waveforms by Hamming Distance Converter for Side-Channel Attacks
+  * Ryoma Katsube, Taiki Nagatomo, Tomoaki Ukezono
+* 9249	2	Standard Cells with Inverted Inputs in 7nm Technology
+  * Tung-Chun Wu, Rung-Bin Lin
+
+---
+## Digital Integrated Circuits & Systems 3 Session
+Chair: Atsushi Takahashi, Hsie-Chia Chang \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=12
+
+* 9062	2	A Dynamic Approximation Processor Based on Out-of-Order RISC-V in 28-nm CMOS
+  * Tomohiro Yoshita, Junichiro Kadomoto, Hidetsugu Irie
+* 9103	2	LEAM: A Low-Area and Efficient Accelerator of Matrix-Vector Multiplication for Homomorphic Encryption
+  * Zhao Cui, Jing Tian
+* 9147	2	The VLSI Architecture Design of a Configurable and High-Throughput Singular Value Decomposition Processor
+  * Tien-Min Chang, Chung-An Shen
+* 9149	2	TG-in-DRAM: A Transmission Gate Based Full Adder Using Multi-Row Activation for Enhanced Throughput in CIM Architectures
+  * Sambhav Sharma, Garima Choudhary, Neha Gupta, Sunil Rathore, Anand Bulusu, Sudeb Dasgupta
+* 9191	2	Physical Design of RISC-V Based System-on-Chip Using OpenLane
+  * Muhammad Fauzan, Raihan Fadhil Yanuarsyah, Muhammad Hanif Hibatullah, Radithya Arisaputra, Infall Syafalni, Nana Suti...
+* 9239	2	TRNG Based on Multiple Entropy Sources Using CTDSM
+  * Apurv Pandey, Naveen Kadayinti
+* 9259	2	Design of Novel Systolic Array Based NTT for CRYSTALS-Kyber Scheme
+  * Keerthija Puli, Vikramkumar Pudi
+* 9199	2	Reference-Free Dual-Mode Cell-to-Cell Sensing for Area-Efficient Resistive Memory
+  * Byung Kwon An, Tae Hyoung Kim
+
+---
+## B3L-B: Digital Integrated Circuits & Systems 4 Session
+Chair: Pei-Yun Tsai, Jongsun Park \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=13
+
+* 9108	2	A Novel Standard Cell Layout Methodology for Low Power IOT Applications
+  * Anuj Bhardwaj, Anand Mishra, Rohit Gupta
+* 9225	2	Design and Implementation of Doppler Centroid Estimation with Quality Index for Real-Time SAR Imaging
+  * Po-Ta Chen, Pei-Yun Tsai, Sz-Yuan Lee
+* 9247	2	Engineering ASAP7 PDK with Buried Power Rail and Backside Metal Technologies
+  * Wen-Cheng Yang, Ting-An Jian, Yu-Cheng Lin, Rung-Bin Lin
+* 9263	2	Random Clock Gating for Side-Channel Protection
+  * Yui Koyanagi, Tomoaki Ukezono
+* 9265	2	GRS:A General RISC-V SIMD Vector Acceleration Processor for Artificial Intelligence Applications
+  * Zhou Wang, Haochen Du, Jiuren Zhou, Yang Zhou, Xiaonan Tang, Tainchun Ye, Shaojun Wei, Shushan Qiao, Shouyi Yin
+* 9271	2	An Improved Method for a Set-Pair Routing Problem by SAT
+  * Koki Nagakura, Kunihiro Fujiyoshi
+
+---
+## A1L-C: Analog & Mixed Signal Circuits & Systems 1 Session
+Chair: Junichiro Kadomoto, Philex Fan \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=14
+
+* 9004	3	A Transient-Enhanced Dual-Loop Low-Dropout Linear Regulator in 65-nm SOI CMOS with <1-µs Settling Time for 5G Applications
+  * Rui Wang, Jin Li, Bo Chen, Tao Yuan
+* 9034	3	A Low-Noise Fully-Differential Bandgap Reference for Low-Power High-Precision ADCs
+  * Techapon Songthawornpong, Amorn Jiraseree-Amornkun, Thaweesak Thantipwan, Woradorn Wattanapanitch
+* 9067	3	Area and Power Efficient, Scalable, Shared Offset Compensation Scheme for High-Speed, High Resolution Time Interleaved ADC
+  * Gunjan Mandal, Naveen Kumar Katepalli, Nukamreddy Venkata Subba Reddy, Kishan Pradhan, Rajesh Cheeranthodi, Sunil Kum...
+* 9189	3	A Low-Power Fully-Differential Chopper-Stabilized LNIA in 22nm FD-SOI for MEMS-Based Thermopile Sensors
+  * Vincent Angelo Boggs Roxas, Ralph Maru M. Grande, Maria Sophia C. Ralota, Rafael M. Pangilinan, Arcel G. Leynes, Mari...
+* 9195	3	Machine Learning Based Adaptation for CTLE of Serial Links
+  * Sujal Reddy Kariveda, Suraj Kumar Prusty, Nijwm Wary
+* 9201	3	Low Noise Low Power Readout Circuit for Capacitance Based MEMS Accelerometers
+  * Rakesh N, Ramakrishnan S. Ashwin Kumar
+* 9273	3	A Wireless Data and Power Transfer-Enabled MCU for Shape-Configurable Chiplet-Based Computers
+  * Junichiro Kadomoto, Hidetsugu Irie, Shuichi Sakai
+
+---
+## A2L-C: Analog & Mixed Signal Circuits & Systems 2 Session
+Chair: Fei Yuan \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=15
+
+* 9040	3	Sub-Threshold Delay-Locked Loop with Piecewise Linearization and Time-Mode Proportional-Integral Locking
+  * Wenhao Wu, Fei Yuan, Yushi Zhou
+* 9056	3	An Error Amplifier with Enhanced Slew Rate and Clamp Function Supporting Multi-Mode Control of Four-Switch-Buck-Boost Converter
+  * Haonan Fan, Jiahao Liu, Wangchen Fan, Weifeng Sun, Zhongyuan Fang
+* 9186	3	Analysis of Complex Behaviors on Memristor–Based Bonhöeffer Van der Pol Oscillator
+  * Yukinojo Kotani, Yoko Uwate, Yoshifumi Nishio
+* 9154	3	A Novel Voltage-Controlled Oscillator Linearized by a Resistorless Dynamic-Degeneration Technique
+  * Jinhen Lee, Victor Adrian, Bah-Hwee Gwee, Joseph Sylvester Chang
+* 9235	3	A Stochastic RMS Jitter Monitoring Circuit for Clock Generators Using Central Limit Theorem
+  * Hyeonmin Park, Ahryung Kim, Jeyeon Lee, Seonghwan Cho
+* 9269	3	A 23.9 ppm/°C Bandgap Reference Circuit with Wide Temperature Range Using Subthreshold PVT Detector
+  * Tzung-Je Lee, Ruei-Chi Lai, Aleksandr Vasjanov, Vaidotas Barzdėnas
+* 9277	3	A CMOS Transimpedance Amplifier Accommodating Wide CPD and Input Bias Range for Chaos LiDAR
+  * Hao-Wei Wu, Chung-Yuan Wang, Huan-Jhong Chen, Yi-Cheng Lin, Ping-Hsuan Hsieh, Fan-Yi Lin, Yuan-Hao Huang, Po-Chiun Hu...
+
+---
+## 	B1L-C: Analog & Mixed Signal Circuits & Systems 3 Session
+Chair: Yongfu Li \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=16
+
+* 9086	3	An Incremental Zoom ADC with Quantization Level Shifting Technique for Over-Ranging Reduction
+  * Huayue Song, Lei Qian, Guangzu He, Yongfu Li, Yan Liu
+* 9118	3	A Micro-Phase Difference Measurement Circuit Using 4-Bit Input Stage
+  * Yuki Sasaki, Takuro Noguchi, Yohei Ishikawa, Sumio Fukai, Akio Shimizu
+* 9144	3	A 91.7-dB SNDR Discrete-Time Zoom ADC with a 20-kHz BW in 180-nm CMOS
+  * Zi-Chi Lin, Chun-Yang Chiu, Yung-Hui Chung
+* 9203	3	A 4 Bit Segmented Current-Steering Harmonic-Cancelling Digital-to-Analog Converter for High Frequency Sine-Wave Synthesis
+  * Maximilian Scherzer, Mario Auer
+* 9234	3	A Second-Order Noise Shaping SAR ADC with Fully Passive Integrators and Pole Optimization
+  * Chia-Wei Liu, Yi-Ting Hsieh, Shuenn-Yuh Lee, Ju-Yi Chen
+* 9224	8	Method for Measuring Silicon Quantum Dots with TMR Sensor
+  * Seiji Komatsu, Takayuki Kawahara
+
+---
+## B3L-C: Analog & Mixed Signal Circuits & Systems 4 Session
+Chair: Tzung-Je Lee \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=17
+
+* 9215	3	A 14.6-ENOB Second-Order Noise-Shaping SAR ADC with kT/C Noise Shifting
+  * Yiyao Huang, Guolong Fu, Xianghui Zhang, Yanbo Zhang, Shubin Liu, Zhangming Zhu
+* 9217	3	A 14b Calibration-Free Pipelined SAR ADC Using a Single-Stage Gain Boost FIA
+  * Haoyu Tian, Guolong Fu, Yuzhou Xiong, Yanbo Zhang, Shubin Liu, Zhangming Zhu
+* 9238	3	A 10-MS/s Binary Weight-Merged SAR ADC for Real-Time Health-Monitoring System Applications
+  * Yu-Wei Chang, Ming-Yueh Ku, Shuenn-Yuh Lee, Ju-Yi Chen
+* 9251	3	A 648MHz Multi-Phase PLL for 2.59GS/s Clock Generation in 180nm Cryo-CMOS
+  * Martinez Alonso Abdel, Akira Matsuzawa
+* 9268	3	Design of a Low-Power LNIA-ADC Interface Circuit in 22nm FDSOI for a Thermopile Sensor in Biomedical Application
+  * Jeremy David Molines, Zylm Sabater, Fergie John Frange, Eugene Imbang, Vincent Angelo Boggs Roxas, Maria Sophia C. Ra...
+* 9270	3	A High Gain Range Low Gain Step dB-Linear Programmable Gain Amplifier with Parallel Complementary Switching Current Method
+  * Tzung-Je Lee, Chien-Hsiang Chao
+* 9262	3	Design of a 3rd-Order 12-Bit Incremental ADC for Power Monitoring Applications
+  * Chia-Min Lai, Chung-Chih Hung
