@@ -14,11 +14,11 @@ https://www.apccas2024.org/industry.php
 * SiCADA / Synopsys Speaker: Yung Wuu
 * TSMC Speaker: Clark Chen
 
-<img src="https://github.com/user-attachments/assets/44c18a3c-257e-4db4-802c-c8ed2e8c9a54" width="200">
-<img src="https://github.com/user-attachments/assets/a9baa59c-a8de-43c1-a1f8-ced3b59014fb" width="200">
-<img src="https://github.com/user-attachments/assets/607ec2e6-4185-4a39-b072-192d495eadfc" width="200">
-<img src="https://github.com/user-attachments/assets/6add84f8-420e-4b9b-ae9c-5142085064f7" width="200">
-<img src="https://github.com/user-attachments/assets/f95dc7bb-5aad-42c8-9359-1cb2a5be1a98" width="200">
+<img src="https://github.com/user-attachments/assets/44c18a3c-257e-4db4-802c-c8ed2e8c9a54" width="150">
+<img src="https://github.com/user-attachments/assets/a9baa59c-a8de-43c1-a1f8-ced3b59014fb" width="150">
+<img src="https://github.com/user-attachments/assets/607ec2e6-4185-4a39-b072-192d495eadfc" width="150">
+<img src="https://github.com/user-attachments/assets/6add84f8-420e-4b9b-ae9c-5142085064f7" width="150">
+<img src="https://github.com/user-attachments/assets/f95dc7bb-5aad-42c8-9359-1cb2a5be1a98" width="150">
 
 ---
 ## A1L-A: Artificial Intelligence Circuits, Systems, & Applications 1 Session 
