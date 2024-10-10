@@ -233,7 +233,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=18
 Chair: Yuan-Hao Huang, Tsung-Te Liu \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=10
 
-*9002	2	A Low-Complexity Reconfigurable FFT Processor for Four Data Overlapping Modes
+* 9002	2	A Low-Complexity Reconfigurable FFT Processor for Four Data Overlapping Modes
   * Lan-Da Van, Yi-Ho Wang, Shen-Jui Huang, Sau-Gee Chen
 * 9047	2	LD-MDCT Quantization Algorithm Optimization and FPGA Realization Using DUTSQ and SFDP Techniques
   * Fanyang Li, Zhanpeng Yuan, Faxiang Wang
