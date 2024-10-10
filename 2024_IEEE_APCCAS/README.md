@@ -40,7 +40,7 @@ The Taiwan Semiconductor Research Institute (TSRI) has established an ecosystem 
 
 ---
 ## A1L-A: Artificial Intelligence Circuits, Systems, & Applications 1 Session 
-Chair: Yi-Chung Wu, Kun-Chih Chen \
+Chair: Yi-Chung Wu (NYCU/吳易忠), Kun-Chih Chen (NYCU/陳坤志) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=6
 
 * 9003	1	The Intermittent Fault Diagnosis of Analog Circuits Based on EMD-CrossFormer
@@ -62,7 +62,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=6
 
 ---
 ## A2L-A: Artificial Intelligence Circuits, Systems, & Applications 2 Session
-Chair: Kun-Chih Chen, Chung-An Shen \
+Chair: Kun-Chih Chen (NYCU/陳坤志), Chung-An Shen (NTUST/沈中安) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=7
 
 * 9068	1	A 250.3µW Versatile Sound Feature Extractor Using 1024-Point FFT 64-ch LogMel Filter in 40nm CMOS
@@ -80,7 +80,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=7
 
 ---
 ## B2L-A: Artificial Intelligence Circuits, Systems, & Applications 3 Session
-Chair: Ting-Jung Chang, Chung-An Shen \
+Chair: Ting-Jung Chang (NYCU/張庭榕), Chung-An Shen (NTUST/沈中安) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=8
 
 * 9030	1	Computation Complexity Reduction Based on Quick Leaky-Integrate-and-Fire Mechanism for SNNs
@@ -101,7 +101,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=8
   * Infall Syafalni, Muhammad Sulthan Mazaya, Muhammad Raihan Elfazri, Eko Mursito Budi, Nana Sutisna, Rahmat Mulyawan, T..
 ---
 ## B3L-A: Artificial Intelligence Circuits, Systems, & Applications 4 Session
-Chair: Tsung-Tai Yeh, Kun-Chih Chen \
+Chair: Tsung-Tai Yeh (NYCU/葉宗泰), Kun-Chih Chen (NYCU/陳坤志) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=9
 
 * 9074	1	Op-Amp Sizing with Large Number of Design Variables Using TuRBO
@@ -159,7 +159,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=29
 
 ---
 ## A2L-D: RF/Communications Circuits & Systems 1 Session
-Chair: Yi-Fan Tsao, Hsiao-Chin Chen \
+Chair: Yi-Fan Tsao (NYCU/曹逸凡), Hsiao-Chin Chen (NTUST/陳筱青) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=25
 
 * 9017	7	A High-Power Single-Pole-Double-Throw Switch with High Isolation for Millimeter-Wave Satellite Applications
@@ -178,7 +178,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=25
 
 ---
 ## B2L-C: Biomedical Circuits & Systems Session
-Chair: Tsung-Heng Tsai, Tzung-Je Lee \
+Chair: Tsung-Heng Tsai (NYCU/蔡宗亨), Tzung-Je Lee (NSYSU/李宗哲) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=20
 
 * 9015	5	A 0.9 V Adaptive Sampling Rate Differential Level Crossing-SAR ADC for Biomedical Signal Acquisition System
@@ -200,7 +200,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=20
 
 ---
 ## A1L-E: Advances in Automated Design & Optimization for Emerging Storage & Memory Architectures Session
-Chair: Yu-Pei Liang, Shuo-Hao Chen \
+Chair: Yu-Pei Liang (CCU/梁郁珮), Shuo-Hao Chen (NYCU/陳碩漢) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=28
 
 * 9029	9.2	An Automated Design Platform for ReRAM-Based DNN Accelerators with Hardware-Software Co-Exploration
@@ -222,7 +222,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=28
 
 ---
 ## B1L-B: Power & Energy Circuits & Systems 1 Session
-Chair: Saito Toshimichi, Shin-Hung Chang \
+Chair: Saito Toshimichi, Shin-Hung Chang (CYCU/張欣宏) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=18
 
 * 9005	4	Optimizing GPU Data Center Power
@@ -240,7 +240,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=18
 
 ---
 ## A1L-B: Digital Integrated Circuits & Systems 1 Session
-Chair: Yuan-Hao Huang, Tsung-Te Liu \
+Chair: Yuan-Hao Huang (NTHU/黃元豪), Tsung-Te Liu (NTU/劉宗德) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=10
 
 * 9002	2	A Low-Complexity Reconfigurable FFT Processor for Four Data Overlapping Modes
@@ -262,7 +262,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=10
 
 ---
 ## A2L-B: Digital Integrated Circuits & Systems 2 Session
-Chair: Herming Chiueh, Po-Tsang Huang \
+Chair: Herming Chiueh, Po-Tsang Huang (NYCU/黃柏蒼) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=11
 
 * 9014	2	Radiation-Hardened Configuration Registers with SPI Interface Protocol in a 65nm CMOS Technology
@@ -280,7 +280,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=11
 
 ---
 ## Digital Integrated Circuits & Systems 3 Session
-Chair: Atsushi Takahashi, Hsie-Chia Chang \
+Chair: Atsushi Takahashi, Hsie-Chia Chang (NYCU/張錫嘉) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=12
 
 * 9062	2	A Dynamic Approximation Processor Based on Out-of-Order RISC-V in 28-nm CMOS
@@ -302,7 +302,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=12
 
 ---
 ## B3L-B: Digital Integrated Circuits & Systems 4 Session
-Chair: Pei-Yun Tsai, Jongsun Park \
+Chair: Pei-Yun Tsai (NCU/蔡佩芸), Jongsun Park \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=13
 
 * 9108	2	A Novel Standard Cell Layout Methodology for Low Power IOT Applications
@@ -378,7 +378,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=16
 
 ---
 ## B3L-C: Analog & Mixed Signal Circuits & Systems 4 Session
-Chair: Tzung-Je Lee \
+Chair: Tzung-Je Lee (NSYSU/李宗哲) \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=17
 
 * 9215	3	A 14.6-ENOB Second-Order Noise-Shaping SAR ADC with kT/C Noise Shifting
