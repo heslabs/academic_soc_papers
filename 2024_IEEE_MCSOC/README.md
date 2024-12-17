@@ -23,13 +23,13 @@ https://mcsoc-forum.org/site/index.php/keynote-speakers/
 ---
 ## Workshops
 * Workshop 1: Chiplet Design
- * Speaker: Dexter Lee, Keysight Technologies
+  * Speaker: Dexter Lee, Keysight Technologies
 * Workshop 2: Workshops on Modern Technologies for Sustainability and Asset Management
- * Speaker: Chee Kit Ho, Cushman & Wakefield, Singapore
- * Speaker: Chiang Liang Kok, Newcastle Australia Institute of Higher Education, Singapore
+  * Speaker: Chee Kit Ho, Cushman & Wakefield, Singapore
+  * Speaker: Chiang Liang Kok, Newcastle Australia Institute of Higher Education, Singapore
 * Workshop 3: Impact of ChatGPT on Academic Writing by Non-native Speakers of English
- * Speaker: Emiko Kaneko, The University of Aizu, Japan
- * Speaker: Younghyon Heo, The University of Aizu, Japan
+  * Speaker: Emiko Kaneko, The University of Aizu, Japan
+  * Speaker: Younghyon Heo, The University of Aizu, Japan
   
 ---
 ## Sponsor Societies, Technical Sponsors, and Partners
