@@ -19,3 +19,8 @@ https://mcsoc-forum.org/site/index.php/keynote-speakers/
   * Dr. Hiroki Nakahara, CEO, Tokyo Artisan Intelligence Co., Ltd. / Professor, Tohoku University, Japan
 * Title: Malaysia Semiconductor IC Design Park Development: Pioneering Southeast Asia’s Semiconductor Future
   * Mr. Yong Kai Ping, Chief Executive Officer of the Selangor Information Technology & Digital Economy Corporation (Sidec), Malaysia
+
+---
+## Sponsor Societies, Technical Sponsors, and Partners
+
+![image](https://github.com/user-attachments/assets/b8d1d657-6ff0-4617-83e8-5176a583e6c8)
