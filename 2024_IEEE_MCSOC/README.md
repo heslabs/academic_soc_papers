@@ -21,6 +21,17 @@ https://mcsoc-forum.org/site/index.php/keynote-speakers/
   * Mr. Yong Kai Ping, Chief Executive Officer of the Selangor Information Technology & Digital Economy Corporation (Sidec), Malaysia
 
 ---
+## Workshops
+* Workshop 1: Chiplet Design
+ * Speaker: Dexter Lee, Keysight Technologies
+* Workshop 2: Workshops on Modern Technologies for Sustainability and Asset Management
+ * Speaker: Chee Kit Ho, Cushman & Wakefield, Singapore
+ * Speaker: Chiang Liang Kok, Newcastle Australia Institute of Higher Education, Singapore
+* Workshop 3: Impact of ChatGPT on Academic Writing by Non-native Speakers of English
+ * Speaker: Emiko Kaneko, The University of Aizu, Japan
+ * Speaker: Younghyon Heo, The University of Aizu, Japan
+  
+---
 ## Sponsor Societies, Technical Sponsors, and Partners
 
 ![image](https://github.com/user-attachments/assets/990a53c4-64f7-4d11-a4fb-cb1008493a2f)
