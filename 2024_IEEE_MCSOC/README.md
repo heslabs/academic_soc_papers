@@ -23,4 +23,4 @@ https://mcsoc-forum.org/site/index.php/keynote-speakers/
 ---
 ## Sponsor Societies, Technical Sponsors, and Partners
 
-![image](https://github.com/user-attachments/assets/b8d1d657-6ff0-4617-83e8-5176a583e6c8)
+![image](https://github.com/user-attachments/assets/990a53c4-64f7-4d11-a4fb-cb1008493a2f)
