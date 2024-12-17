@@ -1,7 +1,9 @@
 ![image](https://github.com/user-attachments/assets/c46ad22d-fa3f-4188-98e8-9c4736ff3e5f)
 
-The IEEE MCSoC (Multicore and Many-core Systems-on-Chip) Forum is very well-known within the field of embedded systems. It is recognized as a significant event that brings together researchers, practitioners, industry experts, and government policymakers from around the world to discuss the latest advancements and innovations in embedded systems and ICs design for emerging applications and sustainable development. The forum features distinguished keynote speakers, technical tracks, and special sessions, making it an important gathering for those involved in embedded system design and research.
-The upcoming 17th IEEE MCSoc 2024 will take place in Kuala Lumpur, Malaysia, from December 16 to 19, 2024.
+* The IEEE MCSoC (Multicore and Many-core Systems-on-Chip) Forum is very well-known within the field of embedded systems.
+* It is recognized as a significant event that brings together researchers, practitioners, industry experts, and government policymakers from around the world to discuss the latest advancements and innovations in embedded systems and ICs design for emerging applications and sustainable development.
+* The forum features distinguished keynote speakers, technical tracks, and special sessions, making it an important gathering for those involved in embedded system design and research.
+* The upcoming 17th IEEE MCSoc 2024 will take place in Kuala Lumpur, Malaysia, from December 16 to 19, 2024.
 
 ---
 ## Keynote Speakers
